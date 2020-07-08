@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hello, my name is Brent.
+
+I build and manage cross-functional engineering and product teams. My teams focus on quickly shipping products and features. I've led teams across all forms of media including video streaming, photo and 3D content delivery, and real-time video and audio communication.
+
+I am currently the co-founder of Svrf (Techstars '17), the first search engine for virtual reality and augmented reality 3D content. We’ve worked with brands, major recording artists, and movie studios. Some include: Snapchat, Rebecca Minkoff, Balmain, Nicki Minaj, Cardi B, Imagine Dragons, Katy Perry, and Lionsgate.
+
+In 2018, I was recognized by Forbes 30 Under 30. 
 
 <!--
 **brentchow/brentchow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
