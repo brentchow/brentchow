@@ -1,7 +1,19 @@
-### 👋 Hello, my name is Brent.
+## 👋 Hello, my name is Brent.
 
-I'm a product leader at the intersection of technology and creativity who is passionate about building and supporting cross-functional teams driven by great product strategy. Over the past 8+ years, I've led teams focusing on areas of new media including video streaming, 3D, 360 photos, RTC, and new media developer tools.
+For the past 10+ years, I've been taking bold product ideas from concept to launch—whether building at scrappy startups or accelerating Fortune 1000s to startup speed. Since 2016, 3 of 5 startups I've led product at were acquired. 2 are still operating.
 
-In 2016, I co-founded Svrf—the first search API for 3D face filters—where I led the product and engineering team. We worked with high-profile brands including Snapchat, GIPHY, Nicki Minaj, Cardi B, Katy Perry, MTV, Lionsgate, and Rebecca Minkoff. In July of 2020, Svrf was acquired.
+## Track Record
+- **SaySo** - Co-founder (2024-Present): Raised $4M, $350K+ in sales
+- **UP.Labs** - Venture Head of Product (2022-2025): Built 2 MVPs, secured $13M in funding
+- **BCG Digital Ventures** - Lead Product Manager (2021-2022): Led 9-figure digital transformation
+- **Brud** - Product (2020) ([Acquired by Dapper Labs](https://techcrunch.com/2021/10/04/nft-startup-dapper-labs-acquires-virtual-influencer-startup-brud/))
+- **Svrf** - Co-founder & CPO (2016-2020) ([Acquired by Poplar](https://poplar.studio/blog/ar-creative-platform-poplar-acquires-svrf-inc/))
+- **AnyMeeting** - Product Manager (2015-2016): Product rebuild was primary acquisition target ([Acquired by Intermedia](https://www.intermedia.com/press-release/intermedia-enhances-rapidly-growing-ucaas-offering-with-asset-acquisition-of-web-conferencing-pioneer-anymeeting))
 
-I've been a people manager for 4+ years, and I deeply enjoy supporting people's journeys and growth. My teams are known to deliver on a lean, iterative product release cycle—consistently delivering results with a proven track record.
+## Recognition
+- [Forbes 30 Under 30 (2018)](https://www.forbes.com/30-under-30/2018/media/)
+- [Techstars NYC (2017)]([https://www.techstars.com/newsroom/announcing-the-techstars-new-york-city-winter-2017-class](https://techcrunch.com/2017/09/28/techstars-nyc-summer-2017/))
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/brentchow)
+- [Personal Site](https://www.brentchow.com)
